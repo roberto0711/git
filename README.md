@@ -1,2 +1,2 @@
-# git
-curso git
+#  Git
+Información para el cursado de Git en **OPEN BOOTCAM**
