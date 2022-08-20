@@ -12,7 +12,7 @@
 - 34:40- Crear una rama en una línea 
   * git checkout -d nvaRm
 - 38:15- Crear una rama a partir de un commit previo y a partir de otra rama 
-  * git log --oneline ==> elijo un commit de donde iniciar
+  * git log --oneline --graph ==> elijo un commit de donde iniciar
   * git branch ramaNueva (commit elegido)
 - 43:45- Hacer más commits en el master
 - 46:00- Cómo trabajar con los remotos
